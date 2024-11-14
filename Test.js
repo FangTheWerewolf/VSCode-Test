@@ -9,3 +9,7 @@ if (hour < 12) {
 } else {
     console.log("Good night!");
 }
+
+const createHelloWorld = true;
+
+if ()
